@@ -42,4 +42,7 @@ My Contribution – Canada Post Group Project (Team of 5)
 - Defined key KPIs and aligned them with data-driven business use cases
 - Designed an analytics progression framework (descriptive, diagnostic, predictive, prescriptive) to support performance optimization
 
+### Predictive Analytics for Customer Churn in the Telecommunications Industry
+[Telco Customer Churn Report](/assets/.pdf)
+
 
