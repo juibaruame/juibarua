@@ -54,3 +54,8 @@ This project applies business intelligence and machine learning to analyze and p
 <p align="justify">
 This work involved designing a relational database for a University Course Registration System, based on a detailed ERD. The design included creating multiple tables with properly defined primary and foreign key relationships to ensure data integrity. Each table was populated with 100 sample records to support testing and demonstration. Additional tasks included executing SQL queries to retrieve and analyze data, performing conditional deletions using WHERE clauses, modifying table structures by adding new columns, and dropping tables to illustrate database maintenance operations.</p>
 
+### Retail Management Database – SQL Schema & Relational Design
+[Retail Management Database System](/assets/Final_SQL_Jui.pdf)<br>
+[Retail Management Database System - SQL](/assets/Exam_Jui.sql)
+<p align="justify">
+This work demonstrates the design and implementation of a relational database for a retail management system based on the ERD. The database includes tables for Customers, Orders, Products, Inventory, Suppliers, Payments, Employees, Warehouses, and related entities, with clearly defined primary and foreign key relationships to ensure data integrity. The design features sample data insertion, table modifications, and SQL queries for retrieving, analyzing, and maintaining data. It serves as a comprehensive example of end-to-end database design and management for retail operations.</p>
