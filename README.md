@@ -13,12 +13,15 @@
 - Bachelor of Science in Mechanical Engineering, Chittagong University of Engineering & Technology
 
 ## Work Experience
-**Data Scientist @ Toyota Financial Services (_June 2022 - Present_)**
-- Uncovered and corrected missing step in production data pipeline which impacted over 70% of active accounts
-- Redeveloped loan originations model which resulted in 50% improvement in model performance and saving 1 million dollars in potential losses
-
+**Team Member (Customer Service & Operations) @ Tim Hortons Inc (_July 2023 – Present_)**
+- Developed strong interpersonal and communication skills by interacting with customers, addressing their needs, and resolving issues promptly and effectively.
+- Ensured precise order taking and cash handling, demonstrating a keen eye for detail and accuracy, critical for data analysis and reporting.
+- Monitored inventory levels and sales data to ensure adequate stock and product availability, using basic data tracking and analysis skills.
+- Identified and resolved operational inefficiencies, contributing to improved workflow and customer satisfaction.
+- Worked collaboratively with team members to ensure seamless service delivery, mirroring the collaborative nature of data projects. Trained new employees on standard operating procedures.
+- Followed strict company policies, health, and safety regulations, showcasing the ability to adhere to guidelines and maintain high standards.
 **Data Science Consultant @ Shawhin Talebi Ventures LLC (_December 2020 - Present_)**
-- Conducted data collection, processing, and analysis for novel study evaluating the impact of over 300 biometrics variables on human performance in hyper-realistic, live-fire training scenarios
+- Developed strong interpersonal and communication skills by interacting with customers, addressing their needs, and resolving issues promptly and effectively.
 - Applied unsupervised deep learning approaches to longitudinal ICU data to discover novel sepsis sub-phenotypes
 
 ## Projects
