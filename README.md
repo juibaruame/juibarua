@@ -32,10 +32,10 @@
 
 ## Projects
 ### Optimizing the Supply Chain: An Emerging Technology Strategy for Canada Post
-[Publication](https://www.mdpi.com/1424-8220/22/8/3048)
+[Canada Post Report](/assests/report.pdf)
 
-[This project](/assests/report.pdf) explores Canada Post’s supply chain optimization through the integration of emerging technologies such as AI, Blockchain, and advanced analytics. It provides a thorough analysis of the organization, including value flow diagrams, GAP analysis, SWOT analysis, and value stream mapping to identify operational inefficiencies and improvement opportunities. A detailed data strategy is developed, covering key use cases, analytics progression, KPIs, governance, and risk mitigation. The project further demonstrates AI-driven operational enhancements, blockchain integration, and cybersecurity strategies to ensure trust and integrity. Overall, it presents a comprehensive roadmap for digital transformation, balancing technological innovation with strategic, operational, and ethical consideration
-![EE](/assets/img/eeg_band_discovery.jpeg)<br>
+This project explores Canada Post’s supply chain optimization through the integration of emerging technologies such as AI, Blockchain, and advanced analytics. It provides a thorough analysis of the organization, including value flow diagrams, GAP analysis, SWOT analysis, and value stream mapping to identify operational inefficiencies and improvement opportunities. A detailed data strategy is developed, covering key use cases, analytics progression, KPIs, governance, and risk mitigation. The project further demonstrates AI-driven operational enhancements, blockchain integration, and cybersecurity strategies to ensure trust and integrity. Overall, it presents a comprehensive roadmap for digital transformation, balancing technological innovation with strategic, operational, and ethical consideration
+
 My Contribution – Canada Post Group Project (Team of 5)
 - Developed a value flow diagram and conducted gap analysis to identify process inefficiencies
 - Proposed blockchain-based solutions to enhance process optimization and transparency
