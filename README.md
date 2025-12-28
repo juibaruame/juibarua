@@ -33,8 +33,8 @@
 ## Projects
 ### Optimizing the Supply Chain: An Emerging Technology Strategy for Canada Post
 [Canada Post Report](/assests/report.pdf)
-
-This project explores Canada Post’s supply chain optimization through the integration of emerging technologies such as AI, Blockchain, and advanced analytics. It provides a thorough analysis of the organization, including value flow diagrams, GAP analysis, SWOT analysis, and value stream mapping to identify operational inefficiencies and improvement opportunities. A detailed data strategy is developed, covering key use cases, analytics progression, KPIs, governance, and risk mitigation. The project further demonstrates AI-driven operational enhancements, blockchain integration, and cybersecurity strategies to ensure trust and integrity. Overall, it presents a comprehensive roadmap for digital transformation, balancing technological innovation with strategic, operational, and ethical consideration
+<p align="justify">
+This project explores Canada Post’s supply chain optimization through the integration of emerging technologies such as AI, Blockchain, and advanced analytics. It provides a thorough analysis of the organization, including value flow diagrams, GAP analysis, SWOT analysis, and value stream mapping to identify operational inefficiencies and improvement opportunities. A detailed data strategy is developed, covering key use cases, analytics progression, KPIs, governance, and risk mitigation. The project further demonstrates AI-driven operational enhancements, blockchain integration, and cybersecurity strategies to ensure trust and integrity. Overall, it presents a comprehensive roadmap for digital transformation, balancing technological innovation with strategic, operational, and ethical consideration</p>
 
 My Contribution – Canada Post Group Project (Team of 5)
 - Developed a value flow diagram and conducted gap analysis to identify process inefficiencies
