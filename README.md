@@ -2,7 +2,7 @@
 
 ## Technical Proficiencies
 **Language & Frameworks:** Python (pandas,numpy,matplotlib), SQL, Tableau
-** Database & Platforms:** MySQL, Google Sheets
+**Database & Platforms:** MySQL, Google Sheets
 
 ## Education
 - Post Graduate Certificate in Data Analytics, Humber College								       		
