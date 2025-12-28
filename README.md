@@ -1,4 +1,4 @@
-# Data Scientist
+# Data Analyst
 
 ## Technical Proficiencies
 **Language & Frameworks:** Python (pandas,numpy,matplotlib), SQL<br>
