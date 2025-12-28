@@ -1,6 +1,7 @@
 # Data Scientist
 
-#### Technical Skills: Python, SQL, AWS, Snowflake, MATLAB
+## Technical Proficiencies
+**Language & Frameworks:** Python (pandas,numpy,matplotlib), SQL, Tableau
 
 ## Education
 - Post Graduate Certificate in Data Analytics, Humber College								       		
