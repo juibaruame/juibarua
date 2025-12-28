@@ -48,3 +48,9 @@ My Contribution – Canada Post Group Project (Team of 5)
 <p align="justify">
 This project applies business intelligence and machine learning to analyze and predict customer churn in the telecommunications industry. Using a real-world Telco dataset, it identifies key churn drivers through exploratory analysis and builds predictive models to detect at-risk customers. The insights support data-driven retention strategies and proactive decision-making.</p>
 
+### Relational Database Design for a University Course Registration System
+[University Course Registration System](/assets/Final_Project_Jui_Barua.pdf)<br>
+[University Course Registration System - SQL](/assets/SQL_Jui.sql)
+<p align="justify">
+This work involved designing a relational database for a University Course Registration System, based on a detailed ERD. The design included creating multiple tables with properly defined primary and foreign key relationships to ensure data integrity. Each table was populated with 100 sample records to support testing and demonstration. Additional tasks included executing SQL queries to retrieve and analyze data, performing conditional deletions using WHERE clauses, modifying table structures by adding new columns, and dropping tables to illustrate database maintenance operations.</p>
+
