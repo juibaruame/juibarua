@@ -20,7 +20,7 @@
 - Identified and resolved operational inefficiencies, contributing to improved workflow and customer satisfaction.
 - Worked collaboratively with team members to ensure seamless service delivery, mirroring the collaborative nature of data projects. Trained new employees on standard operating procedures.
 - Followed strict company policies, health, and safety regulations, showcasing the ability to adhere to guidelines and maintain high standards.
-**Data Science Consultant @ Shawhin Talebi Ventures LLC (_December 2020 - Present_)**
+**Assistant Engineer (Quality Control & Data Analysis) @ CBC Optical Industries BD. Co. Ltd. (COI) (_October 2014 – July 2017_)**
 - Developed strong interpersonal and communication skills by interacting with customers, addressing their needs, and resolving issues promptly and effectively.
 - Applied unsupervised deep learning approaches to longitudinal ICU data to discover novel sepsis sub-phenotypes
 
