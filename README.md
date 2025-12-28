@@ -19,10 +19,15 @@
 - Monitored inventory levels and sales data to ensure adequate stock and product availability, using basic data tracking and analysis skills.
 - Identified and resolved operational inefficiencies, contributing to improved workflow and customer satisfaction.
 - Worked collaboratively with team members to ensure seamless service delivery, mirroring the collaborative nature of data projects. Trained new employees on standard operating procedures.
-- Followed strict company policies, health, and safety regulations, showcasing the ability to adhere to guidelines and maintain high standards.
+- Followed strict company policies, health, and safety regulations, showcasing the ability to adhere to guidelines and maintain high standards.<br>
 **Assistant Engineer (Quality Control & Data Analysis) @ CBC Optical Industries BD. Co. Ltd. (COI) (_October 2014 – July 2017_)**
-- Developed strong interpersonal and communication skills by interacting with customers, addressing their needs, and resolving issues promptly and effectively.
-- Applied unsupervised deep learning approaches to longitudinal ICU data to discover novel sepsis sub-phenotypes
+- Ensured product quality and implemented quality control measures, showcasing attention to detail and quality assurance skills.
+- Monitored production processes to ensure timely and high-quality outputs, demonstrating project and time management abilities.
+- Coordinated with suppliers, managers, and departments, reflecting strong communication and collaboration skills.
+- Assisted in implementing company policies and goals, highlighting strategic thinking and organizational understanding.
+- Ensured compliance with health and safety guidelines, showing commitment to maintaining safe work environments.
+- Conducted root-caused analysis of defects, improving yield by 12%.
+- Conducted performance reviews and identified training needs, demonstrating analytical skills and team development support.
 
 ## Projects
 ### Data-Driven EEG Band Discovery with Decision Trees
