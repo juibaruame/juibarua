@@ -3,8 +3,8 @@
 #### Technical Skills: Python, SQL, AWS, Snowflake, MATLAB
 
 ## Education
-- Post Graduate Certificate in Data Analytics | Humber College								       		
-- Certificate in Data Analytics	| McMaster University		        		
+- Post Graduate Certificate in Data Analytics   | Humber College								       		
+- Certificate in Data Analytics	                | McMaster University		        		
 - Bachelor of Science in Mechanical Engineering | Chittagong University of Engineering & Technology
 
 ## Work Experience
