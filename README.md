@@ -3,9 +3,9 @@
 #### Technical Skills: Python, SQL, AWS, Snowflake, MATLAB
 
 ## Education
-- Post Graduate Certificate in Data Analytics   | Humber College								       		
-- Certificate in Data Analytics	                | McMaster University		        		
-- Bachelor of Science in Mechanical Engineering | Chittagong University of Engineering & Technology
+- Post Graduate Certificate in Data Analytics, Humber College								       		
+- Certificate in Data Analytics, McMaster University		        		
+- Bachelor of Science in Mechanical Engineering, Chittagong University of Engineering & Technology
 
 ## Work Experience
 **Data Scientist @ Toyota Financial Services (_June 2022 - Present_)**
