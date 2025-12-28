@@ -1,8 +1,11 @@
 # Data Scientist
 
 ## Technical Proficiencies
-**Language & Frameworks:** Python (pandas,numpy,matplotlib), SQL, Tableau<br>
-**Database & Platforms:** MySQL, Google Sheets
+**Language & Frameworks:** Python (pandas,numpy,matplotlib), SQL<br>
+**Database & Platforms:** MySQL, Google Sheets<br>
+**BI & Reporting Tools:** Tableau, Power BI, Excel (functions, pivot table), MS Office<br>
+**Data Analysis & Statistical Skills:** Descriptive and Inferential Statistics, Time series Analysis, Hypothesis Testing, Regression, Forecasting, Market Research Analysis<br>
+**Soft skills & Additional Competencies:** Written Communication, Presentation Skills, Mentoring and Training Public Speaking
 
 ## Education
 - Post Graduate Certificate in Data Analytics, Humber College								       		
