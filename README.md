@@ -2,7 +2,6 @@
 
 ## Technical Proficiencies
 **Language & Frameworks:** Python (pandas,numpy,matplotlib), SQL, Tableau
-
 **Database & Platforms:** MySQL, Google Sheets
 
 ## Education
