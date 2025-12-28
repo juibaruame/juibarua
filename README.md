@@ -19,7 +19,8 @@
 - Monitored inventory levels and sales data to ensure adequate stock and product availability, using basic data tracking and analysis skills.
 - Identified and resolved operational inefficiencies, contributing to improved workflow and customer satisfaction.
 - Worked collaboratively with team members to ensure seamless service delivery, mirroring the collaborative nature of data projects. Trained new employees on standard operating procedures.
-- Followed strict company policies, health, and safety regulations, showcasing the ability to adhere to guidelines and maintain high standards.<br>
+- Followed strict company policies, health, and safety regulations, showcasing the ability to adhere to guidelines and maintain high standards.
+
 **Assistant Engineer (Quality Control & Data Analysis) @ CBC Optical Industries BD. Co. Ltd. (COI) (_October 2014 – July 2017_)**
 - Ensured product quality and implemented quality control measures, showcasing attention to detail and quality assurance skills.
 - Monitored production processes to ensure timely and high-quality outputs, demonstrating project and time management abilities.
