@@ -1,5 +1,10 @@
 # Data Analyst
 
+## Professional Summary
+-	**Data Analyst** with multiple **post-graduate certificates in Data Analytics**, hands-on experience in **SQL, Python, Tableau, and Excel,** and strong expertise in data visualization, reporting, and statistical analysis.
+-	Proven ability to analyze **financial and customer datasets,** build dashboards, generate insights, and support **data-driven decision making** across business functions.
+-	Strong analytical foundation backed by a **Mechanical Engineering background,** quality control experience, and applied analytics projects focused on process optimization and performance improvement.
+
 ## Technical Proficiencies
 **Language & Frameworks:** SQL (Structured Query Language, Python (Pandas, NumPy, Matplotlib).<br>
 **Database & Platforms:** MySQL, Google Sheets.<br>
