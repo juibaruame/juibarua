@@ -15,8 +15,8 @@
 
 ## Education
 - Post Graduate Certificate in Data Analytics, Humber College								       		
-- Certificate in Data Analytics, McMaster University		        		
-- Bachelor of Science in Mechanical Engineering, Chittagong University of Engineering & Technology
+- Certificate in Data Analytics, McMaster University [Certificate](/assets/mcmaster.pdf)    		
+- Bachelor of Science in Mechanical Engineering, Chittagong University of Engineering & Technology [Certificate](/assets/cuet.pdf)   
 
 ## Work Experience
 **Team Member (Customer Service & Operations) @ Tim Hortons Inc (_July 2023 – Present_)**
