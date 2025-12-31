@@ -38,7 +38,7 @@
 
 ## Projects
 ### Cardiovascular Disease Analysis & Prediction using Python
-[Cardiovascular Diseases Report](/assets/Python_Project_Report_Jui.pdf)
+[Cardiovascular Diseases Report](/assets/Python_Project_Report_Jui.pdf)<br>
 [Cardiovascular Diseases Python File](/assets/Final_Jui.ipynb)
 <p align="justify">
 This project involved analyzing and visualizing a cardiovascular dataset of 7,000+ patients to identify key risk factors. Performed exploratory data analysis (EDA), feature engineering, and statistical modeling, and built predictive models to classify patients at risk of cardiovascular disease. These insights support data-driven decision-making and risk mitigation strategies.</p>
