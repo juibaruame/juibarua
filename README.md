@@ -1,11 +1,12 @@
 # Data Analyst
 
 ## Technical Proficiencies
-**Language & Frameworks:** Python (pandas,numpy,matplotlib), SQL<br>
-**Database & Platforms:** MySQL, Google Sheets<br>
-**BI & Reporting Tools:** Tableau, Power BI, Excel (functions, pivot table), MS Office<br>
-**Data Analysis & Statistical Skills:** Descriptive and Inferential Statistics, Time series Analysis, Hypothesis Testing, Regression, Forecasting, Market Research Analysis<br>
-**Soft skills & Additional Competencies:** Written Communication, Presentation Skills, Mentoring and Training Public Speaking
+**Language & Frameworks:** SQL (Structured Query Language, Python (Pandas, NumPy, Matplotlib).<br>
+**Database & Platforms:** MySQL, Google Sheets.<br>
+**BI & Reporting Tools:** Tableau, Power BI, Excel (functions, pivot table, charts), MS Office, MS Word, Outlook, PowerPoint, Microsoft Access etc.<br>
+**Data Analysis & Statistical Skills:** Data Cleaning, Data Mining, Customer Analysis, Financial Analysis, Descriptive and Inferential Statistics, Predictive Modeling, Time series Analysis, Hypothesis Testing, Regression, Forecasting, Market Research Analysis.<br>
+**Soft skills & Additional Competencies:** Problem-Solving, Critical Thinking, Written Communication, Presentation Skills, Teamwork, Attention to Detail, Time Management, Mentoring and Training Public Speaking.<br>
+**Licenses:** G Driver license (Ontario). 
 
 ## Education
 - Post Graduate Certificate in Data Analytics, Humber College								       		
