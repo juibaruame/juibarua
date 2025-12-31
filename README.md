@@ -37,6 +37,7 @@
 - Conducted performance reviews and identified training needs, demonstrating analytical skills and team development support.
 
 ## Projects
+
 ### Optimizing the Supply Chain: An Emerging Technology Strategy for Canada Post
 [Canada Post Report](/assets/report.pdf)
 <p align="justify">
