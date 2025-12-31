@@ -37,11 +37,16 @@
 - Conducted performance reviews and identified training needs, demonstrating analytical skills and team development support.
 
 ## Projects
-
+### Cardiovascular Disease Analysis & Prediction using Python
+[Cardiovascular Diseases Report](/assets/Final_Jui.ipynb)
+[Cardiovascular Diseases Python File](/assets/Final_Jui.ipynb)
+<p align="justify">
+This project involved analyzing and visualizing a cardiovascular dataset of 7,000+ patients to identify key risk factors. Performed exploratory data analysis (EDA), feature engineering, and statistical modeling, and built predictive models to classify patients at risk of cardiovascular disease. These insights support data-driven decision-making and risk mitigation strategies.</p>
+  
 ### Optimizing the Supply Chain: An Emerging Technology Strategy for Canada Post
 [Canada Post Report](/assets/report.pdf)
 <p align="justify">
-This project explores Canada Post’s supply chain optimization through the integration of emerging technologies such as AI, Blockchain, and advanced analytics. It provides a thorough analysis of the organization, including value flow diagrams, GAP analysis, SWOT analysis, and value stream mapping to identify operational inefficiencies and improvement opportunities. A detailed data strategy is developed, covering key use cases, analytics progression, KPIs, governance, and risk mitigation. The project further demonstrates AI-driven operational enhancements, blockchain integration, and cybersecurity strategies to ensure trust and integrity. Overall, it presents a comprehensive roadmap for digital transformation, balancing technological innovation with strategic, operational, and ethical consideration</p>
+This project explores Canada Post’s supply chain optimization through the integration of emerging technologies such as AI, Blockchain, and advanced analytics. It provides a thorough analysis of the organization, including value flow diagrams, GAP analysis, SWOT analysis, and value stream mapping to identify operational inefficiencies and improvement opportunities. A detailed data strategy is developed, covering key use cases, analytics progression, KPIs, governance, and risk mitigation. The project further demonstrates AI-driven operational enhancements, blockchain integration, and cybersecurity strategies to ensure trust and integrity. Overall, it presents a comprehensive roadmap for digital transformation, balancing technological innovation with strategic, operational, and ethical consideration.</p>
 
 My Contribution – Canada Post Group Project (Team of 5)
 - Developed a value flow diagram and conducted gap analysis to identify process inefficiencies
