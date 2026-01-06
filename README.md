@@ -8,7 +8,7 @@
 ## Technical Proficiencies
 **Language & Frameworks:** SQL (Structured Query Language, Python (Pandas, NumPy, Matplotlib).<br>
 **Database & Platforms:** MySQL, Google Sheets.<br>
-**BI & Reporting Tools:** Tableau, Power BI, Excel (functions, pivot table, charts), MS Office, MS Word, Outlook, PowerPoint, Microsoft Access etc.<br>
+**BI & Reporting Tools:** Tableau, Power BI, Excel (functions, pivot table, charts), MS Office, MS Word, Outlook, PowerPoint, Microsoft Access, Google Analytics etc.<br>
 **Data Analysis & Statistical Skills:** Data Cleaning, Data Mining, Customer Analysis, Financial Analysis, Descriptive and Inferential Statistics, Predictive Modeling, Time series Analysis, Hypothesis Testing, Regression, Forecasting, Market Research Analysis.<br>
 **Soft skills & Additional Competencies:** Problem-Solving, Critical Thinking, Written Communication, Presentation Skills, Teamwork, Attention to Detail, Time Management, Mentoring and Training Public Speaking.<br>
 **Licenses:** G Driver license (Ontario). 
@@ -16,7 +16,8 @@
 ## Education
 - Post Graduate Certificate in Data Analytics, Humber College								       		
 - Certificate in Data Analytics, McMaster University [Certificate](/assets/mcmaster.pdf)    		
-- Bachelor of Science in Mechanical Engineering, Chittagong University of Engineering & Technology [Certificate](/assets/cuet.pdf)   
+- Bachelor of Science in Mechanical Engineering, Chittagong University of Engineering & Technology [Certificate](/assets/cuet.pdf)
+- Google Analytics Certification [Certificate](https://skillshop.credential.net/f730aedb-abca-43a4-acd2-fec991e0dd79#acc.avZxtsLb) 
 
 ## Work Experience
 **Team Member (Customer Service & Operations) @ Tim Hortons Inc (_July 2023 – Present_)**
