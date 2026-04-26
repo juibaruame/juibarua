@@ -51,10 +51,7 @@ Those findings were moved into the real world by suggesting better scheduling an
 <p align="justify">
 This project involved analyzing and visualizing a cardiovascular dataset of 7,000+ patients to identify key risk factors. Performed exploratory data analysis (EDA), feature engineering, and statistical modeling, and built predictive models to classify patients at risk of cardiovascular disease. These insights support data-driven decision-making and risk mitigation strategies.</p>
 
-### Sentiment Analysis on Women’s Clothing E-Commerce Reviews
-[Women’s Clothing E-Commerce Report](/assets/Case3_Report_Jui.pdf)<br>
-[Women’s Clothing E-Commerce Python File](/assets/Sentiment_Analysis_Jui.ipynb)<br>
-[Women’s Clothing E-Commerce SQL File](/assets/Case3_Jui.sql)
+### [Sentiment Analysis on Women’s Clothing E-Commerce Reviews](/women's%20clothing)<br>
 <p align="justify">
 This project focuses on analyzing customer reviews from a women’s clothing e-commerce dataset using Python and SQL. The dataset was cleaned and preprocessed to generate a refined CSV file containing only review text and corresponding ratings. Natural Language Processing (NLP) techniques were applied to classify reviews into positive, neutral, and negative sentiments. The processed data was then stored in a MySQL database using stored procedures for efficient data management and querying.</p>
   
