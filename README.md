@@ -47,6 +47,9 @@ By putting the data pipeline together in Python, taking raw CSV files and JSON w
 For the predictive side, Random Forest and XGBoost models were used to flag severe delays. The final model hit an accuracy of 0.81 and a 0.68 F1-score, which shows it’s quite reliable for these kinds of forecasts. The data revealed that about 33.5% of trips are prone to major delays—mostly during off-peak hours or heavy snow—with bus and streetcar routes being the most vulnerable.
 
 Those findings were moved into the real world by suggesting better scheduling and resource fixes for roughly 29,000 high-risk trips. To wrap everything up, by building interactive dashboards in Power BI so stakeholders could actually see the trends and predictions in a way that makes sense. At its core, this project shows how mixing data engineering with machine learning can genuinely improve how a city moves.</p>
+### [Online Bookstore Management System](/online%20bookstore%20management%20system)<br>
+<p align="justify"></p>
+
 ### [Cardiovascular Disease Analysis & Prediction using Python](/cardiovascular%20project)<br>
 <p align="justify">
 This project involved analyzing and visualizing a cardiovascular dataset of 7,000+ patients to identify key risk factors. Performed exploratory data analysis (EDA), feature engineering, and statistical modeling, and built predictive models to classify patients at risk of cardiovascular disease. These insights support data-driven decision-making and risk mitigation strategies.</p>
