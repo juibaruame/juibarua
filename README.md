@@ -39,8 +39,13 @@
 
 ## Projects
 ### [Transit Delay Prediction and Analytics System](/power%20bi)<br>
-- Developed an end-to-end transit delay analytics solution using Python and Microsoft Power BI on 130K+ records; built and evaluated ML models (Random Forest, XGBoost) achieving ~0.81 accuracy and ~0.68 F1-score for predicting severe delays.
-- Identified key delay patterns (33.5% severe delay rate, higher off-peak delays, increased bus/streetcar risk in snow) and proposed data-driven strategies, optimizing resource allocation and scheduling for ~29K high-risk trips.
+This project covers a full-scale data analytics and machine learning pipeline that built to track and forecast transit delays throughout the Toronto Transit Commission (TTC). By combining a massive log of over 130,000 delay events with hourly weather records, the system manages to find the specific triggers behind service gaps, helping shift the focus toward data-driven planning.
+
+By putting the data pipeline together in Python, taking raw CSV files and JSON weather data and cleaning them up until they worked as a single, organized dataset. By going deep into the exploratory data analysis (EDA) to figure out how timing was, seasonal shifts, and external headaches like traffic or bad weather were actually dragging down performance across the city.
+
+For the predictive side, Random Forest and XGBoost models were used to flag severe delays. The final model hit an accuracy of 0.81 and a 0.68 F1-score, which shows it’s quite reliable for these kinds of forecasts. The data revealed that about 33.5% of trips are prone to major delays—mostly during off-peak hours or heavy snow—with bus and streetcar routes being the most vulnerable.
+
+Those findings were moved into the real world by suggesting better scheduling and resource fixes for roughly 29,000 high-risk trips. To wrap everything up, by building interactive dashboards in Power BI so stakeholders could actually see the trends and predictions in a way that makes sense. At its core, this project shows how mixing data engineering with machine learning can genuinely improve how a city moves.
 ### Cardiovascular Disease Analysis & Prediction using Python
 [Cardiovascular Diseases Report](/assets/Python_Project_report_Jui.pdf)<br>
 [Cardiovascular Diseases Python File](/assets/Final_Jui.ipynb)
