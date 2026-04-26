@@ -66,9 +66,7 @@ My Contribution – Canada Post Group Project (Team of 5)
 - Defined key KPIs and aligned them with data-driven business use cases
 - Designed an analytics progression framework (descriptive, diagnostic, predictive, prescriptive) to support performance optimization
 
-### Predictive Analytics for Customer Churn in the Telecommunications Industry
-[Telco Customer Churn Report](/assets/Project_Jui_Barua.pdf)<br>
-[Telco Customer Churn Python File](/assets/Project_BI_Jui_Barua.ipynb)
+### [Predictive Analytics for Customer Churn in the Telecommunications Industry](/telco%20customer%20churn)<br>
 <p align="justify">
 This project applies business intelligence and machine learning to analyze and predict customer churn in the telecommunications industry. Using a real-world Telco dataset, it identifies key churn drivers through exploratory analysis and builds predictive models to detect at-risk customers. The insights support data-driven retention strategies and proactive decision-making.</p>
 
