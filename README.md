@@ -38,6 +38,9 @@
 - Conducted performance reviews and identified training needs, demonstrating analytical skills and team development support.
 
 ## Projects
+### [Transit Delay Prediction and Analytics System](/power%20bi)<br>
+- Developed an end-to-end transit delay analytics solution using Python and Microsoft Power BI on 130K+ records; built and evaluated ML models (Random Forest, XGBoost) achieving ~0.81 accuracy and ~0.68 F1-score for predicting severe delays.
+- Identified key delay patterns (33.5% severe delay rate, higher off-peak delays, increased bus/streetcar risk in snow) and proposed data-driven strategies, optimizing resource allocation and scheduling for ~29K high-risk trips.
 ### Cardiovascular Disease Analysis & Prediction using Python
 [Cardiovascular Diseases Report](/assets/Python_Project_report_Jui.pdf)<br>
 [Cardiovascular Diseases Python File](/assets/Final_Jui.ipynb)
