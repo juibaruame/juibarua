@@ -48,7 +48,7 @@ For the predictive side, Random Forest and XGBoost models were used to flag seve
 
 Those findings were moved into the real world by suggesting better scheduling and resource fixes for roughly 29,000 high-risk trips. To wrap everything up, by building interactive dashboards in Power BI so stakeholders could actually see the trends and predictions in a way that makes sense. At its core, this project shows how mixing data engineering with machine learning can genuinely improve how a city moves.</p>
 ### [Online Bookstore Management System](/online%20bookstore%20management%20system)<br>
-<p align="justify"></p>
+<p align="justify">This project is an Online Bookstore Management System that is built using SQL which demonstrates end to end database design and implementation. It includes a normalized relational schema with entities such as books, authors, customers, orders, orderdetails and payments, along with clearly defined relationships which is easy to maintain data consistency. The project includes advanced SQL components, like views for reporting and analytics, user-defined functions for dynamic pricing and discount logic, and stored procedures that handle order placement, payment processing, and inventory updates with robust validation. It also incorporates automated database events to manage unpaid orders and implements role-based access control for secure and efficient data management, by making it a comprehensive example of real-world database application development.</p>
 
 ### [Cardiovascular Disease Analysis & Prediction using Python](/cardiovascular%20project)<br>
 <p align="justify">
