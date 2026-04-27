@@ -38,7 +38,7 @@
 - Conducted performance reviews and identified training needs, demonstrating analytical skills and team development support.
 
 ## Projects
-### [Transit Delay Prediction and Analytics System](/power%20bi)<br>
+### [Transit Delay Prediction and Analytics System](https://github.com/juibaruame/juibarua/tree/main/power%20bi)<br>
 <p align="justify">
 This project covers a full-scale data analytics and machine learning pipeline that built to track and forecast transit delays throughout the Toronto Transit Commission (TTC). By combining a massive log of over 130,000 delay events with hourly weather records, the system manages to find the specific triggers behind service gaps, helping shift the focus toward data-driven planning.
 
@@ -47,19 +47,18 @@ By putting the data pipeline together in Python, taking raw CSV files and JSON w
 For the predictive side, Random Forest and XGBoost models were used to flag severe delays. The final model hit an accuracy of 0.81 and a 0.68 F1-score, which shows it’s quite reliable for these kinds of forecasts. The data revealed that about 33.5% of trips are prone to major delays—mostly during off-peak hours or heavy snow—with bus and streetcar routes being the most vulnerable.
 
 Those findings were moved into the real world by suggesting better scheduling and resource fixes for roughly 29,000 high-risk trips. To wrap everything up, by building interactive dashboards in Power BI so stakeholders could actually see the trends and predictions in a way that makes sense. At its core, this project shows how mixing data engineering with machine learning can genuinely improve how a city moves.</p>
-### [Online Bookstore Management System](/online%20bookstore%20management%20system)<br>
+### [Online Bookstore Management System](https://github.com/juibaruame/juibarua/tree/main/online%20bookstore%20management%20system)<br>
 <p align="justify">This project is an Online Bookstore Management System that is built using SQL which demonstrates end to end database design and implementation. It includes a normalized relational schema with entities such as books, authors, customers, orders, orderdetails and payments, along with clearly defined relationships which is easy to maintain data consistency. The project includes advanced SQL components, like views for reporting and analytics, user-defined functions for dynamic pricing and discount logic, and stored procedures that handle order placement, payment processing, and inventory updates with robust validation. It also incorporates automated database events to manage unpaid orders and implements role-based access control for secure and efficient data management, by making it a comprehensive example of real-world database application development.</p>
 
-### [Cardiovascular Disease Analysis & Prediction using Python](/cardiovascular%20project)<br>
+### [Cardiovascular Disease Analysis & Prediction using Python](https://github.com/juibaruame/juibarua/tree/main/cardiovascular%20project)<br>
 <p align="justify">
 This project involved analyzing and visualizing a cardiovascular dataset of 7,000+ patients to identify key risk factors. Performed exploratory data analysis (EDA), feature engineering, and statistical modeling, and built predictive models to classify patients at risk of cardiovascular disease. These insights support data-driven decision-making and risk mitigation strategies.</p>
 
-### [Sentiment Analysis on Women’s Clothing E-Commerce Reviews](/women's%20clothing)<br>
+### [Sentiment Analysis on Women’s Clothing E-Commerce Reviews](https://github.com/juibaruame/juibarua/tree/main/women's%20clothing)<br>
 <p align="justify">
 This project focuses on analyzing customer reviews from a women’s clothing e-commerce dataset using Python and SQL. The dataset was cleaned and preprocessed to generate a refined CSV file containing only review text and corresponding ratings. Natural Language Processing (NLP) techniques were applied to classify reviews into positive, neutral, and negative sentiments. The processed data was then stored in a MySQL database using stored procedures for efficient data management and querying.</p>
   
-### Optimizing the Supply Chain: An Emerging Technology Strategy for Canada Post
-[Canada Post Report](/assets/report.pdf)
+### [Optimizing the Supply Chain: An Emerging Technology Strategy for Canada Post](https://github.com/juibaruame/juibarua/tree/main//assets/report.pdf)<br>
 <p align="justify">
 This project explores Canada Post’s supply chain optimization through the integration of emerging technologies such as AI, Blockchain, and advanced analytics. It provides a thorough analysis of the organization, including value flow diagrams, GAP analysis, SWOT analysis, and value stream mapping to identify operational inefficiencies and improvement opportunities. A detailed data strategy is developed, covering key use cases, analytics progression, KPIs, governance, and risk mitigation. The project further demonstrates AI-driven operational enhancements, blockchain integration, and cybersecurity strategies to ensure trust and integrity. Overall, it presents a comprehensive roadmap for digital transformation, balancing technological innovation with strategic, operational, and ethical consideration.</p>
 
@@ -69,14 +68,14 @@ My Contribution – Canada Post Group Project (Team of 5)
 - Defined key KPIs and aligned them with data-driven business use cases
 - Designed an analytics progression framework (descriptive, diagnostic, predictive, prescriptive) to support performance optimization
 
-### [Predictive Analytics for Customer Churn in the Telecommunications Industry](/telco%20customer%20churn)<br>
+### [Predictive Analytics for Customer Churn in the Telecommunications Industry](https://github.com/juibaruame/juibarua/tree/main/telco%20customer%20churn)<br>
 <p align="justify">
 This project applies business intelligence and machine learning to analyze and predict customer churn in the telecommunications industry. Using a real-world Telco dataset, it identifies key churn drivers through exploratory analysis and builds predictive models to detect at-risk customers. The insights support data-driven retention strategies and proactive decision-making.</p>
 
-### [Relational Database Design for a University Course Registration System](/relational%20database%20design)<br>
+### [Relational Database Design for a University Course Registration System](https://github.com/juibaruame/juibarua/tree/main/relational%20database%20design)<br>
 <p align="justify">
 This work involved designing a relational database for a University Course Registration System, based on a detailed ERD. The design included creating multiple tables with properly defined primary and foreign key relationships to ensure data integrity. Each table was populated with 100 sample records to support testing and demonstration. Additional tasks included executing SQL queries to retrieve and analyze data, performing conditional deletions using WHERE clauses, modifying table structures by adding new columns, and dropping tables to illustrate database maintenance operations.</p>
 
-### [Retail Management Database – SQL Schema & Relational Design](/retail%20management%20database)<br>
+### [Retail Management Database – SQL Schema & Relational Design](https://github.com/juibaruame/juibarua/tree/main/retail%20management%20database)<br>
 <p align="justify">
 This work demonstrates the design and implementation of a relational database for a retail management system based on the ERD. The database includes tables for Customers, Orders, Products, Inventory, Suppliers, Payments, Employees, Warehouses, and related entities, with clearly defined primary and foreign key relationships to ensure data integrity. The design features sample data insertion, table modifications, and SQL queries for retrieving, analyzing, and maintaining data. It serves as a comprehensive example of end-to-end database design and management for retail operations.</p>
